@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQYABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgCgiAAAAAAAAAAAAiN0oAgAAAAAAgIgAiNgoAgAAAAAAgIgIiIjYIgAAAACIgIiIiNjdIgAAAACIiIjdjdjdjQIAAACAWFXd3d2IiAgAgIiIVVXV3d3diIgAgIhYVdXd3d3diAgAAIhYVd29291ViAgAAIhVVd1dtd1V1QgAAFhVVdVdVdxdVQgAgFhVVdW9W8XbVQgAiFVVVVXdW8W7W4gAgFU1VVXdW8W7iwgAgFUlX1vVy7y7iNgAgFUVX7vVu7uIiAAAgFVVVTFbjIiICAAAgFhVVTNTjFWIAAAAAIhVXTtTjIUAAAAAAIhYVVtViAgAAAAAAICIVYiICAAAAAAAAACAiAgAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Godzilla"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
